@@ -14,14 +14,6 @@ sistema, 15 GB de RAM da GPU e 112.6 GB de espaço em disco.
 - ✅ Perfis semi-logarítmicos de absorção
 - ✅ Código documentado e reprodutível
 
-## Resultados e Validação
-
-Os resultados foram validados através de:
-- Coerência física com literatura estabelecida
-- Convergência estatística em múltiplas execuções
-- Reprodução do comportamento dose-profundidade exponencial
-- Dependência wavelength-específica conforme esperado
-
 ## Aplicações Clínicas
 
 Este simulador pode auxiliar na:
